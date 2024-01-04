@@ -6,7 +6,7 @@ for(int i=1;i<=num;++i)
 {
 factorial *=i;
 }
-System.out.println("factorial of %d=%d",num,factorial);
+System.out.println("factorial is"+factorial);
 }
 }
 
